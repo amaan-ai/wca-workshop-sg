@@ -1,8 +1,8 @@
-# Lab 1: General Programming
+# Lab: General Programming
 
 This document gives step-by-step guide to finish Lab5, but feel to add in a few of your own attempts.
 
-## Lab 1 covers:
+## Lab covers:
 
 - General programming with other languages, including
     - code auto completion
