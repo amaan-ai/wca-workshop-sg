@@ -11,7 +11,7 @@ This document gives step-by-step guide to finish Lab1.
 
 ### 1. Code Asset Download
 
-Download/copy the [modresorts-twas-j8](https://github.com/amaan-ai/wca-workshop-sg/tree/main/Lab-1-3-java-modernization/modresorts-twas-j8) to your location of choice.
+Download this [modresorts-twas-j8](https://github.com/amaan-ai/wca-workshop-sg/tree/main/Lab-1-3-java-modernization/modresorts-twas-j8) directory to your location of choice.
 
 
 ### 2. Build Application Project
