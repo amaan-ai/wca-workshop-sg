@@ -1,1 +1,4 @@
-# wca-workshop-sg
+# Guide for running the workshop
+
+## Pre-requisites
+
