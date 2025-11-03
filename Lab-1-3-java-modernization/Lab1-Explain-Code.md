@@ -19,7 +19,7 @@ Download this [modresorts-twas-j8](https://github.com/amaan-ai/wca-workshop-sg/t
 - Open a terminal, and go to your project folder, and navigate to `was_dependency` folder.
 
 ```bash
-cd <your-path>/wca4ej-workshop/modresorts-twas-j8/was_dependency
+cd <your-path>/wca-workshop-sg/modresorts-twas-j8/was_dependency
 ```
 - Once inside the folder, run the following command to build project:
 
